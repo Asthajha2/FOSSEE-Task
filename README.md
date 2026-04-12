@@ -1,6 +1,6 @@
 # FOSSEE Workshop Booking — React UI/UX Redesign
 
-A complete React redesign of the [FOSSEE Workshop Booking](https://github.com/FOSSEE/workshop_booking) Django portal, targeting mobile-first students accessing workshops from college campuses across India.
+A complete React redesign of the [FOSSEE Workshop Booking](https://github.com/FOSSEE/workshop_booking) portal, targeting mobile-first students accessing workshops from college campuses across India.
 
 ## Getting Started
 
